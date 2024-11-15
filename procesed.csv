@@ -1,0 +1,301 @@
+,Nombres,Telefonos,Salario,Pesos,Alturas,Nacionalidades,Grupo Sanguineos,Fechas de Nacimiento,fecha,columna,numeros,cumple_regex,tofloat,columna_numerica,columna_fecha,columna_nueva
+0,Linda Garza,+29 (768)624-2270,992830,217.77 lbs,5.68 ft,Holy See (Vatican City State),A+,1986-03-21,1986-03-21,Linda Garza,,,992830,992830,,992830
+1,Shawn Walton,7222428589,431926,60.67 kg,177.90 cm,Latvia,B+,12/02/1970 21:02:48,,Shawn Walton,,,431926,431926,,431926
+2,Briana Le,318.938.8422x37,909293,88.51 kg,156.65 cm,Iceland,AB-,,,Briana Le,,,909293,909293,,909293
+3,Dr. Joseph Davidson Jr.,(809)206-1483,589451,83.42 kg,171.96 cm,Cape Verde,O+,01/11/1987 09:26:58,,Dr. Joseph Davidson Jr.,,,589451,589451,,589451
+4,Maria Murphy,(420)689-5028x5,347991,73.92 kg,169.94 cm,,AB-,06/12/1967 16:23:32,,Maria Murphy,,,347991,347991,,347991
+5,Dorothy Stafford,283.335.1727x86,nan,98.42 kg,154.58 cm,Romania,AB+,20/12/1980 16:17:33,,Dorothy Stafford,,,0,0,,0
+6,Daniel Webster,287.631.8491x68,152430,87.95 kg,185.72 cm,Benin,O-,26/04/1973 05:03:06,,Daniel Webster,,,152430,152430,,152430
+7,Casey Williams,500.413.1558x66,616038,57.77 kg,171.90 cm,Ethiopia,O+,07/05/1988 21:06:42,,Casey Williams,,,616038,616038,,616038
+8,Lucas Serrano,980-379-6597x02,56543,62.33 kg,173.91 cm,Guinea,O-,20/02/1985 11:27:44,,Lucas Serrano,,,56543,56543,,56543
+9,Megan Andrews DDS,4276839925,744225,80.19 kg,151.58 cm,Greece,O-,06/06/1955 12:26:10,,Megan Andrews DDS,,,744225,744225,,744225
+10,Crystal Smith,,851255,50.54 kg,183.67 cm,Jersey,AB-,14/08/1981 12:43:25,,Crystal Smith,,,851255,851255,,851255
+11,Elizabeth Thomas,+1-964-480-9866,21432,79.11 kg,191.15 cm,Botswana,B+,04/11/1957 02:06:56,,Elizabeth Thomas,,,21432,21432,,21432
+12,Oscar Craig,934.719.6151,522906,73.84 kg,172.77 cm,Malaysia,AB-,26/08/1973 08:08:37,,Oscar Craig,,,522906,522906,,522906
+13,valor_por_defecto,(259)273-7334x1,692787,55.04 kg,162.18 cm,South Georgia and the South Sandwich Islands,A-,24/05/1966 14:18:19,,valor_por_defecto,,,692787,692787,,692787
+14,Ronald Meza,346.245.3042x37,685702,92.61 kg,173.47 cm,Indonesia,O+,03/03/1978 03:12:13,,Ronald Meza,,,685702,685702,,685702
+15,John Zuniga,001-868-697-884,169000,96.41 kg,162.04 cm,Pitcairn Islands,O+,02/09/1956 12:10:19,,John Zuniga,,,169000,169000,,169000
+16,Miranda Woods,793-876-6087x40,164279,80.77 kg,173.19 cm,South Africa,A-,29/03/1964 11:17:19,,Miranda Woods,,,164279,164279,,164279
+17,Daniel Ward,2735696610,133999,97.67 kg,197.62 cm,New Caledonia,A-,23/04/1965 20:02:38,,Daniel Ward,,,133999,133999,,133999
+18,Jerry Collins,001-917-797-290,978638,81.48 kg,151.16 cm,New Zealand,B+,30/12/1995 00:20:38,,Jerry Collins,,,978638,978638,,978638
+19,Brian Hall,001-241-245-252,517492,87.75 kg,194.44 cm,Ecuador,O-,,,Brian Hall,,,517492,517492,,517492
+20,Jessica Lozano,+1-315-414-0965,800286,82.49 kg,199.63 cm,Antarctica (the territory South of 60 deg S),O+,11/05/1960 17:46:57,,Jessica Lozano,,,800286,800286,,800286
+21,Ronald Hicks,936.728.8064,334599,70.58 kg,164.63 cm,Falkland Islands (Malvinas),AB+,13/03/1987 17:45:33,,Ronald Hicks,,,334599,334599,,334599
+22,Richard Ramos,(254)808-1707x7,879845,62.04 kg,178.39 cm,Guinea-Bissau,AB-,29/05/1975 19:08:01,,Richard Ramos,,,879845,879845,,879845
+23,Tracie Jones,+1-707-871-4212,421027,57.82 kg,165.87 cm,New Caledonia,O+,25/10/1991 20:42:54,,Tracie Jones,,,421027,421027,,421027
+24,Troy Jackson,001-328-914-689,349497,72.01 kg,150.66 cm,Antarctica (the territory South of 60 deg S),AB+,04/08/1985 00:56:54,,Troy Jackson,,,349497,349497,,349497
+25,Ashley Clark,(429)340-3535,671602,62.67 kg,189.12 cm,Czech Republic,A-,14/02/1974 11:14:06,,Ashley Clark,,,671602,671602,,671602
+26,Dawn Miller,740.986.9041,476357,93.96 kg,182.71 cm,Angola,B+,22/07/1962 16:11:14,,Dawn Miller,,,476357,476357,,476357
+27,Ryan Cruz,976.437.2236,527805,95.46 kg,174.58 cm,Mali,O-,07/01/1955 14:09:26,,Ryan Cruz,,,527805,527805,,527805
+28,Kevin Perez,850-629-6044,829213,54.11 kg,196.23 cm,United Arab Emirates,B-,07/08/1997 16:01:01,,Kevin Perez,,,829213,829213,,829213
+29,Roy Anderson,743.998.6843,384811,61.94 kg,163.84 cm,Macao,A-,29/08/1982 01:17:42,,Roy Anderson,,,384811,384811,,384811
+30,Steven Hurst,251-610-5284,90359,79.66 kg,150.22 cm,Colombia,B-,22/10/1964 22:39:52,,Steven Hurst,,,90359,90359,,90359
+31,Crystal Smith,351.786.4058x87,853575,62.65 kg,151.35 cm,Hungary,B-,12/03/1992 10:23:17,,Crystal Smith,,,853575,853575,,853575
+32,Shawn Harris,(565)852-7192x6,420922,61.14 kg,189.91 cm,Malaysia,AB+,16/10/2003 20:07:14,,Shawn Harris,,,420922,420922,,420922
+33,valor_por_defecto,+1-360-350-7731,934424,76.40 kg,,Chile,B-,06/06/1985 23:11:34,,valor_por_defecto,,,934424,934424,,934424
+34,Deanna Blevins,(359)295-4610x5,370408,98.99 kg,169.53 cm,Germany,O-,04/11/1969 17:23:37,,Deanna Blevins,,,370408,370408,,370408
+35,David Williams,(931)634-8656x3,129773,93.22 kg,173.71 cm,British Indian Ocean Territory (Chagos Archipelago),AB-,31/08/1968 20:36:35,,David Williams,,,129773,129773,,129773
+36,Xavier Blair,(397)866-8954x7,998667,82.86 kg,170.03 cm,Solomon Islands,B+,04/04/1967 09:41:57,,Xavier Blair,,,998667,998667,,998667
+37,Anne Hoover,376-518-1597,710188,57.20 kg,164.56 cm,Sweden,A-,24/02/2002 03:31:50,,Anne Hoover,,,710188,710188,,710188
+38,Jesus Nolan,+1-436-759-8740,835555,85.00 kg,195.63 cm,Cape Verde,AB+,13/05/1963 09:55:22,,Jesus Nolan,,,835555,835555,,835555
+39,Tiffany Vega,(985)295-9182,460732,88.38 kg,181.07 cm,Bosnia and Herzegovina,AB+,03/01/1999 20:15:40,,Tiffany Vega,,,460732,460732,,460732
+40,Tina Washington,8354176537,502625,98.71 kg,187.91 cm,Congo,B-,12/02/1961 12:16:23,,Tina Washington,,,502625,502625,,502625
+41,Matthew Mccoy,(672)281-1122x6,81768,82.54 kg,199.68 cm,,A+,25/08/1967 07:40:44,,Matthew Mccoy,,,81768,81768,,81768
+42,Jeffery Crawford,8386665903,283045,82.68 kg,157.33 cm,United States Virgin Islands,O+,07/09/1999 03:18:08,,Jeffery Crawford,,,283045,283045,,283045
+43,Stephanie Bender,,517588,72.28 kg,187.36 cm,Turkey,,28/12/1998 06:56:41,,Stephanie Bender,,,517588,517588,,517588
+44,Carlos Rodriguez,(738)319-9453x4,164288,74.38 kg,,Saint Vincent and the Grenadines,AB-,24/03/1992 13:59:50,,Carlos Rodriguez,,,164288,164288,,164288
+45,Keith Collins,472-353-2717x29,766263,95.57 kg,151.06 cm,Bahamas,AB-,04/02/2004 07:16:08,,Keith Collins,,,766263,766263,,766263
+46,Becky Barker,654-686-1488,883670,84.84 kg,174.23 cm,Burkina Faso,B-,12/08/2003 13:08:22,,Becky Barker,,,883670,883670,,883670
+47,Lisa Edwards,(628)578-5469x5,341790,76.44 kg,188.96 cm,Uruguay,AB-,11/07/1976 07:30:55,,Lisa Edwards,,,341790,341790,,341790
+48,Katherine Mullen,9443396289,19455,97.47 kg,152.74 cm,Croatia,B+,15/06/1972 12:42:08,,Katherine Mullen,,,19455,19455,,19455
+49,Anthony Rivera,,447774,67.34 kg,185.34 cm,Suriname,AB+,17/01/1995 20:24:47,,Anthony Rivera,,,447774,447774,,447774
+50,Mary Hernandez,(428)775-7617,961215,74.12 kg,156.09 cm,,B+,17/07/1969 00:48:35,,Mary Hernandez,,,961215,961215,,961215
+51,Douglas Blackburn,+1-548-279-6477,186574,54.17 kg,154.21 cm,Saint Pierre and Miquelon,O-,01/10/1989 19:23:35,,Douglas Blackburn,,,186574,186574,,186574
+52,Christopher Scott,365-674-9074x06,700168,,180.73 cm,,O+,11/12/1954 20:21:47,,Christopher Scott,,,700168,700168,,700168
+53,Angel Miles,917-280-0543x86,872517,58.28 kg,165.16 cm,Thailand,O+,14/09/2002 02:51:31,,Angel Miles,,,872517,872517,,872517
+54,Scott Franklin,573-378-0305x34,439921,94.84 kg,178.52 cm,Vanuatu,O+,01/12/2002 22:00:05,,Scott Franklin,,,439921,439921,,439921
+55,John Jacobs,317-699-3717x18,253926,87.17 kg,152.34 cm,Niue,B+,09/06/1974 11:06:37,,John Jacobs,,,253926,253926,,253926
+56,Diane Clark,+1-515-558-4224,416197,,152.54 cm,Czech Republic,AB+,15/06/1987 06:07:37,,Diane Clark,,,416197,416197,,416197
+57,Christina Baker,(797)292-9483,201080,60.10 kg,194.02 cm,Morocco,AB+,27/09/1971 00:08:14,,Christina Baker,,,201080,201080,,201080
+58,Holly Alexander,001-471-346-830,967674,68.24 kg,194.20 cm,Bahrain,B+,28/05/2005 08:21:43,,Holly Alexander,,,967674,967674,,967674
+59,Julie Conner,,377490,88.66 kg,183.40 cm,Spain,AB+,19/10/1978 23:45:45,,Julie Conner,,,377490,377490,,377490
+60,valor_por_defecto,688-420-6273x70,344648,92.90 kg,184.40 cm,Malaysia,A-,03/09/2006 10:24:43,,valor_por_defecto,,,344648,344648,,344648
+61,Michael Williams,8236011348,529645,65.29 kg,191.43 cm,Hong Kong,B+,04/01/2006 13:09:44,,Michael Williams,,,529645,529645,,529645
+62,Melissa Dudley,936-440-0446x27,998975,75.18 kg,192.61 cm,Syrian Arab Republic,O+,13/12/1961 14:45:31,,Melissa Dudley,,,998975,998975,,998975
+63,Juan Mejia,001-211-757-130,105401,89.63 kg,170.63 cm,Bolivia,B-,15/01/1962 08:56:58,,Juan Mejia,,,105401,105401,,105401
+64,Lori Sanchez,958.929.0103,896122,63.48 kg,161.87 cm,Holy See (Vatican City State),B-,16/04/1984 20:20:31,,Lori Sanchez,,,896122,896122,,896122
+65,Willie Sullivan,(643)687-6091x2,804435,69.68 kg,163.28 cm,Portugal,AB+,13/12/2004 08:44:39,,Willie Sullivan,,,804435,804435,,804435
+66,Evan Mckinney,777-433-3705,424708,94.54 kg,153.83 cm,Grenada,AB-,07/10/1956 15:51:36,,Evan Mckinney,,,424708,424708,,424708
+67,Desiree Hernandez,4224307297,695825,58.09 kg,154.82 cm,Bhutan,O-,27/06/1988 18:11:20,,Desiree Hernandez,,,695825,695825,,695825
+68,Ashley Bartlett,001-441-524-045,716245,74.54 kg,180.17 cm,Myanmar,AB+,03/06/1979 16:47:57,,Ashley Bartlett,,,716245,716245,,716245
+69,Jessica Davis,001-982-807-379,332209,78.69 kg,164.35 cm,Cote d'Ivoire,A-,05/05/1989 22:56:02,,Jessica Davis,,,332209,332209,,332209
+70,Eric Lawrence,714.752.2244x33,626901,80.99 kg,186.91 cm,Latvia,A+,21/06/1975 16:10:52,,Eric Lawrence,,,626901,626901,,626901
+71,David Rose,001-662-811-517,506418,93.35 kg,165.23 cm,Burkina Faso,O+,07/05/1991 17:32:05,,David Rose,,,506418,506418,,506418
+72,Jared Johnson,(661)858-1960x5,222615,82.34 kg,191.65 cm,Liberia,B+,13/04/2005 21:37:15,,Jared Johnson,,,222615,222615,,222615
+73,Kathryn Richardson,+1-660-937-8802,169282,69.14 kg,,,B-,04/05/1955 09:43:08,,Kathryn Richardson,,,169282,169282,,169282
+74,Jonathan Moore,325.858.6988x72,536773,50.31 kg,196.24 cm,Papua New Guinea,B-,16/05/1980 09:13:37,,Jonathan Moore,,,536773,536773,,536773
+75,Madison Williams,+1-659-722-9314,400903,75.53 kg,173.72 cm,Portugal,A-,26/01/1960 20:00:42,,Madison Williams,,,400903,400903,,400903
+76,Aaron Mccoy,547-819-5834x18,510589,81.26 kg,197.16 cm,Gibraltar,O+,16/03/1965 07:36:32,,Aaron Mccoy,,,510589,510589,,510589
+77,Nicholas Blair,(531)827-9750x4,861965,54.48 kg,171.80 cm,Niger,,05/08/2000 00:19:03,,Nicholas Blair,,,861965,861965,,861965
+78,Brandon Rodriguez,284.334.9492,248499,98.05 kg,195.26 cm,Tonga,A-,02/05/1989 07:46:35,,Brandon Rodriguez,,,248499,248499,,248499
+79,Lauren Gonzalez,(753)802-9323x1,169534,99.16 kg,151.02 cm,Ethiopia,B-,08/04/1978 14:17:16,,Lauren Gonzalez,,,169534,169534,,169534
+80,Garrett Sims,408-630-2574,438680,92.74 kg,154.95 cm,Holy See (Vatican City State),O+,26/05/1987 09:48:30,,Garrett Sims,,,438680,438680,,438680
+81,Michelle Jones,4049364852,469135,62.89 kg,159.78 cm,United States Minor Outlying Islands,O+,17/07/1985 15:16:47,,Michelle Jones,,,469135,469135,,469135
+82,Hannah Rodriguez,001-480-768-845,403175,85.49 kg,155.44 cm,Holy See (Vatican City State),AB+,29/01/1990 03:21:52,,Hannah Rodriguez,,,403175,403175,,403175
+83,Larry King,6725851794,123473,96.50 kg,173.96 cm,Bosnia and Herzegovina,AB-,23/08/1981 11:33:52,,Larry King,,,123473,123473,,123473
+84,Patrick Davidson,743.551.7896x30,310497,88.96 kg,184.85 cm,New Zealand,B+,28/09/1982 13:05:21,,Patrick Davidson,,,310497,310497,,310497
+85,Dean Burns,305.306.1938x13,821255,90.72 kg,156.12 cm,South Africa,B-,03/07/1990 03:16:53,,Dean Burns,,,821255,821255,,821255
+86,Keith Stone,+1-738-929-7387,131120,90.51 kg,192.51 cm,Palestinian Territory,O+,30/03/1974 11:47:02,,Keith Stone,,,131120,131120,,131120
+87,Nancy Lucas,302-783-5778,605838,76.52 kg,188.27 cm,Samoa,AB+,,,Nancy Lucas,,,605838,605838,,605838
+88,Natalie Rodriguez,+1-968-661-7269,265241,63.29 kg,156.51 cm,Faroe Islands,AB+,,,Natalie Rodriguez,,,265241,265241,,265241
+89,Justin Walter,+1-239-675-6415,nan,91.66 kg,162.30 cm,Cape Verde,AB-,,,Justin Walter,,,0,0,,0
+90,Pamela Foster,,487697,51.25 kg,162.31 cm,South Africa,O+,05/05/1989 02:40:48,,Pamela Foster,,,487697,487697,,487697
+91,Chad Johnson,001-300-645-285,166311,96.57 kg,160.54 cm,Nicaragua,A+,24/06/1986 23:40:36,,Chad Johnson,,,166311,166311,,166311
+92,Aaron Fischer,(926)854-0912x2,215538,74.95 kg,189.21 cm,,,02/01/1998 05:32:51,,Aaron Fischer,,,215538,215538,,215538
+93,Ashley Bridges,(475)785-7217x5,99663,80.64 kg,153.85 cm,San Marino,O+,27/10/1963 12:22:28,,Ashley Bridges,,,99663,99663,,99663
+94,Dr. Jose Freeman,(265)552-0774x6,917913,59.83 kg,186.77 cm,Mexico,B-,20/12/2000 11:16:10,,Dr. Jose Freeman,,,917913,917913,,917913
+95,Ebony Rodriguez,751-513-6761,54901,,177.90 cm,Aruba,A-,04/09/1965 05:59:57,,Ebony Rodriguez,,,54901,54901,,54901
+96,Mary Green,545-689-0410x60,953625,87.29 kg,155.48 cm,Norway,O-,30/06/2001 19:42:46,,Mary Green,,,953625,953625,,953625
+97,Natasha Adams,7178876229,550120,78.48 kg,185.12 cm,Central African Republic,A+,19/12/1993 17:01:51,,Natasha Adams,,,550120,550120,,550120
+98,Christopher Leach,244.235.7446x43,291099,88.23 kg,,Czech Republic,A-,13/04/1961 00:06:35,,Christopher Leach,,,291099,291099,,291099
+99,Tamara Hess,759-764-9532x28,827952,96.39 kg,177.46 cm,Bahrain,B+,25/12/2002 05:47:06,,Tamara Hess,,,827952,827952,,827952
+100,Jamie Davis,(358)469-7026x3,795748,65.71 kg,184.91 cm,Saint Lucia,A-,22/11/2001 15:49:54,,Jamie Davis,,,795748,795748,,795748
+101,John Miller,555.964.6412x09,985474,92.47 kg,169.86 cm,Palestinian Territory,AB-,03/07/1977 12:26:08,,John Miller,,,985474,985474,,985474
+102,Alexander Hunter,+1-818-891-2122,799224,66.96 kg,199.17 cm,Jamaica,AB+,19/09/1994 05:14:06,,Alexander Hunter,,,799224,799224,,799224
+103,Michael Clark,434.435.1574x99,27078,89.11 kg,173.75 cm,Sierra Leone,,09/01/1970 06:35:02,,Michael Clark,,,27078,27078,,27078
+104,Tracy Moran,947-484-2941x45,282505,63.58 kg,151.57 cm,Egypt,A+,15/04/2003 11:08:51,,Tracy Moran,,,282505,282505,,282505
+105,Christina Torres,+1-374-463-7921,444589,91.66 kg,158.19 cm,Seychelles,,20/09/1958 12:30:57,,Christina Torres,,,444589,444589,,444589
+106,Amber Hubbard,692.342.9406,492440,86.62 kg,189.64 cm,Guadeloupe,AB-,13/11/1974 11:57:11,,Amber Hubbard,,,492440,492440,,492440
+107,Benjamin Freeman,+1-713-796-3477,507798,85.42 kg,182.84 cm,French Guiana,B+,11/10/1979 04:32:42,,Benjamin Freeman,,,507798,507798,,507798
+108,Edward Oliver,+1-604-791-5706,959379,56.71 kg,189.37 cm,Congo,A+,05/09/2004 07:49:58,,Edward Oliver,,,959379,959379,,959379
+109,Diana Young,911-411-5470,354038,60.10 kg,154.84 cm,Nauru,A-,24/07/1971 22:08:47,,Diana Young,,,354038,354038,,354038
+110,Christine Smith,001-676-691-176,842373,,158.45 cm,Comoros,AB+,24/08/1982 17:21:24,,Christine Smith,,,842373,842373,,842373
+111,Sophia Johnson,(849)215-7511x8,268760,55.91 kg,155.27 cm,Montserrat,AB+,30/07/1966 09:53:00,,Sophia Johnson,,,268760,268760,,268760
+112,Karen Henderson,9426553947,450489,77.04 kg,161.58 cm,Wallis and Futuna,A-,28/02/1964 06:01:58,,Karen Henderson,,,450489,450489,,450489
+113,valor_por_defecto,001-369-376-743,516695,77.48 kg,164.02 cm,Saint Kitts and Nevis,B-,14/01/1980 14:14:04,,valor_por_defecto,,,516695,516695,,516695
+114,Wesley Martin,+1-320-446-1263,871680,53.45 kg,160.36 cm,Estonia,B-,,,Wesley Martin,,,871680,871680,,871680
+115,Michael Kemp,864.432.7231x35,306396,54.30 kg,178.17 cm,French Polynesia,AB-,08/11/1965 20:28:00,,Michael Kemp,,,306396,306396,,306396
+116,Leonard Mendoza,001-638-879-084,nan,78.27 kg,195.22 cm,Turkmenistan,AB-,25/07/1991 13:09:31,,Leonard Mendoza,,,0,0,,0
+117,Matthew Jimenez,(646)202-5278,369524,92.43 kg,195.68 cm,Argentina,,28/10/1998 09:33:30,,Matthew Jimenez,,,369524,369524,,369524
+118,valor_por_defecto,339-728-2627,640439,60.32 kg,189.51 cm,Vietnam,AB-,11/10/1986 21:24:32,,valor_por_defecto,,,640439,640439,,640439
+119,Cindy Walker,+1-553-378-4090,485995,55.99 kg,186.11 cm,Ethiopia,B-,20/07/1972 00:44:42,,Cindy Walker,,,485995,485995,,485995
+120,Brenda Jensen,+1-896-583-4922,345267,74.96 kg,197.42 cm,Guam,,14/12/1998 23:35:15,,Brenda Jensen,,,345267,345267,,345267
+121,Megan Christensen,936-550-9280x60,939306,84.19 kg,154.78 cm,Latvia,B+,,,Megan Christensen,,,939306,939306,,939306
+122,Kristopher Fisher,+1-255-451-6974,934400,53.08 kg,196.91 cm,Guadeloupe,B-,01/02/1961 05:23:14,,Kristopher Fisher,,,934400,934400,,934400
+123,Andrea Foster,(434)224-2138,490172,94.50 kg,170.16 cm,Malawi,O-,08/03/2004 06:04:55,,Andrea Foster,,,490172,490172,,490172
+124,Jennifer Foster,(677)559-2913,795993,73.80 kg,197.32 cm,Singapore,B+,19/01/1975 20:49:21,,Jennifer Foster,,,795993,795993,,795993
+125,Amanda Taylor,565.372.0040,18930,75.17 kg,181.40 cm,Bahrain,AB-,08/12/2001 00:13:21,,Amanda Taylor,,,18930,18930,,18930
+126,Jessica Salas,304.715.1424x77,902385,99.32 kg,158.64 cm,Palau,AB-,17/05/1973 05:45:57,,Jessica Salas,,,902385,902385,,902385
+127,Kevin Lucas,312.947.2243,565998,73.70 kg,,Lebanon,A-,30/10/1984 14:14:06,,Kevin Lucas,,,565998,565998,,565998
+128,Mary Bennett,870.954.9844x43,249537,77.59 kg,197.18 cm,,O-,22/04/1996 02:29:16,,Mary Bennett,,,249537,249537,,249537
+129,John Jones,+1-515-288-4474,505380,81.73 kg,153.68 cm,Chile,AB-,30/06/1955 13:28:38,,John Jones,,,505380,505380,,505380
+130,Mary Wheeler,001-328-904-661,nan,81.66 kg,156.72 cm,Namibia,B-,12/10/1971 04:10:24,,Mary Wheeler,,,0,0,,0
+131,Daniel Benton,+1-634-431-9709,627044,83.06 kg,170.89 cm,Brunei Darussalam,O-,21/08/1959 04:46:04,,Daniel Benton,,,627044,627044,,627044
+132,Amy Allen,927.529.3064,37276,60.20 kg,169.09 cm,Israel,A+,09/06/1970 06:08:20,,Amy Allen,,,37276,37276,,37276
+133,Harry Miller,4296657109,nan,,154.69 cm,United Arab Emirates,AB-,25/02/1980 09:21:19,,Harry Miller,,,0,0,,0
+134,Brian Carlson,578-469-0859,324956,90.05 kg,167.08 cm,India,AB+,25/10/1992 17:14:39,,Brian Carlson,,,324956,324956,,324956
+135,Michael Escobar,001-841-488-779,819698,88.83 kg,168.52 cm,Dominica,A-,18/03/1985 14:57:30,,Michael Escobar,,,819698,819698,,819698
+136,Mrs. Brandi Jones,(532)310-3349,546596,84.59 kg,192.55 cm,Grenada,O-,22/10/1991 15:06:19,,Mrs. Brandi Jones,,,546596,546596,,546596
+137,Cory May,+1-999-567-8440,770595,97.63 kg,180.72 cm,Gibraltar,B+,28/03/1972 07:13:25,,Cory May,,,770595,770595,,770595
+138,Micheal Roman,+1-473-323-6676,605991,55.79 kg,,Kenya,AB+,29/07/1955 16:56:39,,Micheal Roman,,,605991,605991,,605991
+139,Eileen Medina,308-967-7846,309613,98.95 kg,198.84 cm,Lesotho,B-,25/06/1960 20:38:19,,Eileen Medina,,,309613,309613,,309613
+140,Micheal Foster,(419)566-8360x9,544664,99.43 kg,193.13 cm,Indonesia,,10/07/1994 19:33:46,,Micheal Foster,,,544664,544664,,544664
+141,valor_por_defecto,(889)914-2384x5,493312,89.74 kg,192.79 cm,Trinidad and Tobago,AB-,18/03/1994 01:11:50,,valor_por_defecto,,,493312,493312,,493312
+142,David Ochoa,744-489-0020x59,651185,79.05 kg,197.19 cm,Saint Helena,,02/08/1972 16:28:53,,David Ochoa,,,651185,651185,,651185
+143,Edgar Stephens,4608844073,430309,87.25 kg,162.80 cm,Bermuda,B+,30/06/1956 15:13:35,,Edgar Stephens,,,430309,430309,,430309
+144,Lauren Murray,001-416-939-175,290011,97.83 kg,169.31 cm,Yemen,B+,24/04/2005 05:42:37,,Lauren Murray,,,290011,290011,,290011
+145,Tracy Campbell,001-596-628-767,819590,54.74 kg,179.22 cm,Peru,AB+,23/07/1979 18:21:53,,Tracy Campbell,,,819590,819590,,819590
+146,Mrs. Tina Lawrence,001-225-346-924,231809,62.75 kg,163.81 cm,Greenland,A+,10/01/1979 01:31:44,,Mrs. Tina Lawrence,,,231809,231809,,231809
+147,Philip Hernandez,7474777381,380116,63.76 kg,160.97 cm,Guernsey,AB+,13/07/1970 14:17:02,,Philip Hernandez,,,380116,380116,,380116
+148,Victoria Stevens,(404)201-6222x7,69269,54.60 kg,187.91 cm,Cape Verde,AB+,14/04/1956 16:43:28,,Victoria Stevens,,,69269,69269,,69269
+149,Dawn Thomas,001-847-237-767,628254,93.42 kg,161.64 cm,Eritrea,B-,13/04/1956 04:04:55,,Dawn Thomas,,,628254,628254,,628254
+150,Anthony Watson,,862649,99.48 kg,184.35 cm,Tanzania,AB+,30/07/1975 22:24:33,,Anthony Watson,,,862649,862649,,862649
+151,Andrew Pitts,001-264-329-754,429983,,160.53 cm,Uganda,A-,18/06/2000 20:27:49,,Andrew Pitts,,,429983,429983,,429983
+152,Matthew Rodriguez,850-808-2511,nan,62.47 kg,164.84 cm,El Salvador,B+,26/09/1991 20:12:49,,Matthew Rodriguez,,,0,0,,0
+153,Derek Bradshaw,303.850.3047x86,694538,69.38 kg,176.79 cm,Azerbaijan,AB-,14/09/1992 13:17:57,,Derek Bradshaw,,,694538,694538,,694538
+154,Brian Soto,001-843-349-325,486767,94.33 kg,154.11 cm,Madagascar,O-,12/02/1965 10:55:22,,Brian Soto,,,486767,486767,,486767
+155,valor_por_defecto,,467411,55.82 kg,188.84 cm,Jordan,AB-,29/03/1988 11:34:10,,valor_por_defecto,,,467411,467411,,467411
+156,Mr. Rodney Ferguson,646.246.6471x26,317849,73.64 kg,153.67 cm,Micronesia,A-,13/11/1990 18:58:23,,Mr. Rodney Ferguson,,,317849,317849,,317849
+157,Julie Paul,6982778615,118129,96.91 kg,166.68 cm,Chile,A-,17/09/1956 08:20:32,,Julie Paul,,,118129,118129,,118129
+158,Melissa Walter,(583)569-4956x5,nan,58.87 kg,182.50 cm,Hungary,O-,15/02/1984 01:18:32,,Melissa Walter,,,0,0,,0
+159,Norma Fuentes,(217)749-1827x2,759796,86.70 kg,161.34 cm,Burundi,O+,14/02/1995 19:07:12,,Norma Fuentes,,,759796,759796,,759796
+160,James Gray,+1-817-441-0997,554592,52.68 kg,186.47 cm,France,A+,22/02/2001 16:04:26,,James Gray,,,554592,554592,,554592
+161,Sara Woods,,278536,88.57 kg,196.84 cm,Greenland,AB+,,,Sara Woods,,,278536,278536,,278536
+162,Renee Thompson,471-866-0848x09,590547,97.27 kg,177.10 cm,,B-,08/09/1978 21:07:54,,Renee Thompson,,,590547,590547,,590547
+163,Gregory Mcknight,,897029,56.66 kg,179.20 cm,Tokelau,O+,09/03/1975 10:53:46,,Gregory Mcknight,,,897029,897029,,897029
+164,Eric Alexander,2025915830,350499,79.27 kg,177.41 cm,Tonga,AB+,06/10/1986 03:03:23,,Eric Alexander,,,350499,350499,,350499
+165,Alexandra Calhoun,728.547.0245x46,874340,95.58 kg,169.39 cm,Marshall Islands,A-,28/12/1961 04:51:21,,Alexandra Calhoun,,,874340,874340,,874340
+166,Carrie Rose,001-338-662-301,nan,77.80 kg,187.82 cm,France,B-,06/02/1993 21:53:04,,Carrie Rose,,,0,0,,0
+167,Jeffrey Warren,(911)371-4232,370659,78.33 kg,156.17 cm,Taiwan,B-,24/04/2000 21:03:45,,Jeffrey Warren,,,370659,370659,,370659
+168,Trevor Bridges,001-403-533-392,934265,71.77 kg,178.06 cm,Poland,O-,15/12/1976 07:37:55,,Trevor Bridges,,,934265,934265,,934265
+169,Thomas Allen,728-610-5152x62,911452,60.79 kg,178.49 cm,Antarctica (the territory South of 60 deg S),O+,21/11/1990 11:37:45,,Thomas Allen,,,911452,911452,,911452
+170,Michael Gregory,(528)773-1844x7,232368,,198.12 cm,Serbia,AB+,03/09/1999 10:36:26,,Michael Gregory,,,232368,232368,,232368
+171,Eddie Stevens,282.785.5920x13,878433,82.46 kg,195.42 cm,Estonia,AB-,05/09/1997 18:53:06,,Eddie Stevens,,,878433,878433,,878433
+172,Kathryn Daniels,+1-866-855-6253,601824,71.50 kg,192.45 cm,Cote d'Ivoire,AB+,27/01/1980 14:05:54,,Kathryn Daniels,,,601824,601824,,601824
+173,David Kirk,(225)270-8047,711093,62.20 kg,157.63 cm,United Arab Emirates,AB-,29/04/1969 19:06:13,,David Kirk,,,711093,711093,,711093
+174,James Bates,(866)658-2029x5,82117,91.84 kg,191.26 cm,Australia,O+,02/07/1997 17:32:17,,James Bates,,,82117,82117,,82117
+175,Randy Long,7855900390,47149,,188.45 cm,Kiribati,O-,,,Randy Long,,,47149,47149,,47149
+176,Joanna Chapman,+1-466-985-2050,800880,92.00 kg,172.40 cm,Kiribati,AB-,24/10/2003 12:29:38,,Joanna Chapman,,,800880,800880,,800880
+177,Jennifer Key,,nan,94.26 kg,,British Indian Ocean Territory (Chagos Archipelago),A-,26/03/1964 13:36:40,,Jennifer Key,,,0,0,,0
+178,Michael Torres,+1-238-844-4018,332532,56.97 kg,163.45 cm,,A-,20/11/1996 09:13:12,,Michael Torres,,,332532,332532,,332532
+179,Richard Taylor,(247)493-3445,15179,87.46 kg,193.55 cm,Lithuania,O+,28/04/1993 08:42:00,,Richard Taylor,,,15179,15179,,15179
+180,Michael Payne,885-922-0337,296394,79.58 kg,185.54 cm,Saint Helena,O-,05/10/1986 21:19:37,,Michael Payne,,,296394,296394,,296394
+181,Jennifer Pineda,(600)250-5522x7,476547,94.53 kg,159.58 cm,,B-,13/06/1957 03:51:07,,Jennifer Pineda,,,476547,476547,,476547
+182,Ms. Laura Martin,336-435-6949x94,160956,94.06 kg,167.07 cm,Suriname,O+,03/11/2005 03:04:04,,Ms. Laura Martin,,,160956,160956,,160956
+183,Anthony Chavez,704.214.9664,nan,53.81 kg,171.38 cm,Spain,B-,27/05/1956 08:50:38,,Anthony Chavez,,,0,0,,0
+184,Johnny Ballard,246.837.6040x39,620592,59.31 kg,173.50 cm,Tunisia,B+,27/11/1955 19:51:00,,Johnny Ballard,,,620592,620592,,620592
+185,Mr. Robert Fisher,+1-882-510-8575,585727,67.04 kg,166.43 cm,North Macedonia,B+,01/10/1959 22:02:25,,Mr. Robert Fisher,,,585727,585727,,585727
+186,Sherry Smith,(325)991-5215x2,900183,,153.36 cm,Svalbard & Jan Mayen Islands,AB+,07/12/1997 05:29:48,,Sherry Smith,,,900183,900183,,900183
+187,valor_por_defecto,494-595-0667x85,148476,96.19 kg,154.11 cm,French Guiana,B-,08/01/1998 05:03:47,,valor_por_defecto,,,148476,148476,,148476
+188,valor_por_defecto,(963)737-1525x1,637538,,165.88 cm,Bosnia and Herzegovina,B+,,,valor_por_defecto,,,637538,637538,,637538
+189,Jennifer Torres,(460)692-6061,339344,87.62 kg,185.32 cm,Thailand,AB+,10/02/1993 14:32:21,,Jennifer Torres,,,339344,339344,,339344
+190,Gerald Bradshaw,+1-857-405-5183,269388,57.49 kg,,Gambia,AB+,28/09/1979 15:20:40,,Gerald Bradshaw,,,269388,269388,,269388
+191,Stephanie Gentry,314-596-0025x91,290714,56.15 kg,161.34 cm,French Guiana,AB-,28/03/1965 07:58:25,,Stephanie Gentry,,,290714,290714,,290714
+192,Matthew Stewart,874-208-0590x88,324742,,167.52 cm,Gambia,B+,02/03/1985 02:39:08,,Matthew Stewart,,,324742,324742,,324742
+193,Luis Hayes,+1-949-986-8819,289132,81.84 kg,195.66 cm,Fiji,A+,23/01/1955 00:43:08,,Luis Hayes,,,289132,289132,,289132
+194,Billy Powell,865.941.4824,755144,67.87 kg,161.50 cm,Puerto Rico,AB+,10/02/1991 04:29:06,,Billy Powell,,,755144,755144,,755144
+195,Hannah Mason,001-953-945-221,17969,87.00 kg,178.65 cm,Thailand,B+,24/08/1956 18:16:47,,Hannah Mason,,,17969,17969,,17969
+196,Tyler Becker,677-357-2453,226900,88.28 kg,194.42 cm,Sudan,B-,07/09/1975 10:16:16,,Tyler Becker,,,226900,226900,,226900
+197,Austin Fowler,221-273-2701x30,98502,64.11 kg,183.20 cm,Palestinian Territory,AB+,27/07/1978 09:16:05,,Austin Fowler,,,98502,98502,,98502
+198,Diane Rhodes,608.684.5661,80991,80.88 kg,158.40 cm,Saint Kitts and Nevis,B+,12/04/2001 16:31:34,,Diane Rhodes,,,80991,80991,,80991
+199,Amy Gonzalez,(905)707-9058x7,667232,,153.43 cm,Cocos (Keeling) Islands,B+,,,Amy Gonzalez,,,667232,667232,,667232
+200,Kristina Hill,001-984-256-856,nan,67.18 kg,165.30 cm,Eritrea,A-,24/05/1992 15:44:01,,Kristina Hill,,,0,0,,0
+201,Kimberly Taylor,475.700.7195x20,811700,82.68 kg,187.45 cm,,O+,11/09/1958 01:32:34,,Kimberly Taylor,,,811700,811700,,811700
+202,David Bowers,(295)879-1872x4,669830,57.71 kg,195.62 cm,Jamaica,O+,03/09/1990 02:40:10,,David Bowers,,,669830,669830,,669830
+203,Dr. Doris Jordan,001-900-982-510,579136,84.11 kg,192.56 cm,Togo,B-,26/08/1960 21:18:27,,Dr. Doris Jordan,,,579136,579136,,579136
+204,Paul Schmidt,892.819.2132,754062,64.05 kg,168.30 cm,Finland,,24/11/1984 12:38:33,,Paul Schmidt,,,754062,754062,,754062
+205,David Jones,+1-213-709-3281,80112,,179.96 cm,Serbia,O-,17/07/1994 21:39:25,,David Jones,,,80112,80112,,80112
+206,Allison Salas,+1-326-938-8360,130171,60.71 kg,186.74 cm,Saint Barthelemy,O+,01/11/1978 21:55:20,,Allison Salas,,,130171,130171,,130171
+207,Timothy Taylor,9537934948,882950,86.05 kg,164.06 cm,Heard Island and McDonald Islands,O+,06/10/1974 14:50:58,,Timothy Taylor,,,882950,882950,,882950
+208,Carolyn Stewart,(690)222-1188x4,43869,76.08 kg,186.23 cm,Luxembourg,O+,25/12/1995 08:37:37,,Carolyn Stewart,,,43869,43869,,43869
+209,Steven Bernard,,856242,74.86 kg,179.10 cm,Saint Helena,O+,28/11/1954 05:47:34,,Steven Bernard,,,856242,856242,,856242
+210,Mr. Richard Johnson,599.600.8020,573856,60.70 kg,173.62 cm,Ghana,B-,17/07/1958 02:41:15,,Mr. Richard Johnson,,,573856,573856,,573856
+211,Marcus Butler,001-224-617-851,801671,91.56 kg,196.00 cm,Ukraine,,30/11/2001 19:17:52,,Marcus Butler,,,801671,801671,,801671
+212,Mr. Chad Martin,,423751,98.28 kg,189.90 cm,New Zealand,A-,24/11/1975 01:34:31,,Mr. Chad Martin,,,423751,423751,,423751
+213,Natasha Allen,(489)388-1008x0,117910,89.77 kg,158.46 cm,Turks and Caicos Islands,B-,15/10/1980 04:03:26,,Natasha Allen,,,117910,117910,,117910
+214,valor_por_defecto,,235160,82.26 kg,180.24 cm,,O-,14/05/1955 13:31:29,,valor_por_defecto,,,235160,235160,,235160
+215,Katrina Gonzalez,949.210.8902x53,37133,58.14 kg,174.01 cm,,B-,02/01/1999 12:49:11,,Katrina Gonzalez,,,37133,37133,,37133
+216,Tracy Holland,898-469-1347x07,381832,50.03 kg,155.07 cm,South Africa,O-,15/09/1977 22:19:00,,Tracy Holland,,,381832,381832,,381832
+217,Kyle Pugh PhD,(282)861-7892x0,744462,65.52 kg,178.11 cm,British Indian Ocean Territory (Chagos Archipelago),A+,18/01/1964 22:21:17,,Kyle Pugh PhD,,,744462,744462,,744462
+218,Monica Mcguire,649.271.5393x35,608490,85.88 kg,180.58 cm,Panama,O-,15/09/1975 23:18:42,,Monica Mcguire,,,608490,608490,,608490
+219,Jason Davis,(486)411-2818x4,857527,91.68 kg,160.03 cm,Puerto Rico,AB+,31/08/1987 17:55:07,,Jason Davis,,,857527,857527,,857527
+220,Michelle Jarvis,(863)529-5415x9,914084,77.32 kg,162.19 cm,Lebanon,O+,,,Michelle Jarvis,,,914084,914084,,914084
+221,James White,290.335.1806,311409,91.96 kg,150.69 cm,New Zealand,B-,01/11/1958 12:33:35,,James White,,,311409,311409,,311409
+222,Jonathan Pena,+1-695-970-1693,739777,85.60 kg,174.47 cm,Netherlands Antilles,A-,11/03/1982 03:20:25,,Jonathan Pena,,,739777,739777,,739777
+223,Joseph Davis,,nan,69.83 kg,153.27 cm,Bahrain,AB-,18/04/1988 20:25:14,,Joseph Davis,,,0,0,,0
+224,Erica Craig,603-893-4695,787115,,187.77 cm,,B+,24/05/1969 23:24:49,,Erica Craig,,,787115,787115,,787115
+225,Sierra Klein,+1-380-784-2327,649077,73.56 kg,,Vietnam,O-,12/04/1971 15:03:21,,Sierra Klein,,,649077,649077,,649077
+226,Melanie Frank,001-346-339-091,740443,96.58 kg,179.95 cm,Netherlands Antilles,AB-,,,Melanie Frank,,,740443,740443,,740443
+227,John Ryan,001-794-322-608,883922,55.22 kg,183.33 cm,Djibouti,B-,11/09/1994 18:19:53,,John Ryan,,,883922,883922,,883922
+228,Emily Gonzalez,655-681-2241x67,897194,90.42 kg,154.00 cm,Lesotho,B+,05/04/1963 17:11:45,,Emily Gonzalez,,,897194,897194,,897194
+229,Phillip Perez,654-210-3999,709455,52.77 kg,192.76 cm,Guatemala,B-,21/04/1960 20:27:30,,Phillip Perez,,,709455,709455,,709455
+230,Cynthia Goodman,(668)220-4757x7,100647,55.31 kg,176.73 cm,Tunisia,A-,23/05/1964 12:18:47,,Cynthia Goodman,,,100647,100647,,100647
+231,Richard Morgan,+1-972-573-1796,943866,58.96 kg,190.75 cm,Gabon,B-,22/06/1960 15:12:45,,Richard Morgan,,,943866,943866,,943866
+232,Steve Smith,903.216.7925x50,448666,51.02 kg,153.67 cm,Nigeria,O+,04/05/1988 18:08:10,,Steve Smith,,,448666,448666,,448666
+233,Colin Lewis,676.259.1718,828060,73.92 kg,174.58 cm,Grenada,B+,25/01/1969 11:31:37,,Colin Lewis,,,828060,828060,,828060
+234,Robert Vasquez,870-499-0615x28,nan,78.91 kg,,Mali,AB+,01/01/1975 15:00:51,,Robert Vasquez,,,0,0,,0
+235,Nicole Hayes,+1-235-284-5822,391451,51.20 kg,170.77 cm,Syrian Arab Republic,O+,25/03/1958 10:22:33,,Nicole Hayes,,,391451,391451,,391451
+236,Samantha Long,(393)819-5385,210021,83.89 kg,199.86 cm,Saint Lucia,AB+,25/01/1977 06:12:09,,Samantha Long,,,210021,210021,,210021
+237,valor_por_defecto,001-836-775-165,33586,52.14 kg,194.00 cm,Italy,O-,06/02/1986 16:12:28,,valor_por_defecto,,,33586,33586,,33586
+238,Bobby Schroeder,(784)758-0166,610337,96.19 kg,159.12 cm,Samoa,A+,12/08/1973 00:29:01,,Bobby Schroeder,,,610337,610337,,610337
+239,Matthew Harris,+1-381-253-5334,415756,64.02 kg,166.99 cm,Guyana,AB-,18/11/1961 13:57:26,,Matthew Harris,,,415756,415756,,415756
+240,Lisa May,(297)658-2426,332528,71.36 kg,199.36 cm,United Arab Emirates,O-,29/04/1997 08:51:36,,Lisa May,,,332528,332528,,332528
+241,Dennis Gordon,001-562-675-442,654170,84.43 kg,,Pitcairn Islands,B-,26/11/1979 03:56:46,,Dennis Gordon,,,654170,654170,,654170
+242,valor_por_defecto,(670)602-3653,425862,98.01 kg,162.74 cm,Spain,AB-,04/02/1955 08:48:33,,valor_por_defecto,,,425862,425862,,425862
+243,Antonio Blanchard,959.729.7911x07,471909,90.98 kg,157.43 cm,Romania,B+,13/10/1983 07:54:21,,Antonio Blanchard,,,471909,471909,,471909
+244,Shawn Medina,869.364.8813x00,759668,87.05 kg,162.15 cm,Morocco,AB-,18/11/1962 20:20:36,,Shawn Medina,,,759668,759668,,759668
+245,Casey Hernandez,944-587-2340x32,977914,65.26 kg,,Cape Verde,B+,09/04/1957 06:35:38,,Casey Hernandez,,,977914,977914,,977914
+246,Nicholas Walker,637.821.3478,219625,70.45 kg,154.77 cm,Senegal,,16/11/1965 18:21:59,,Nicholas Walker,,,219625,219625,,219625
+247,Maria Villanueva,+1-329-723-3212,99759,63.39 kg,182.24 cm,Sierra Leone,A+,18/11/1963 08:09:16,,Maria Villanueva,,,99759,99759,,99759
+248,John Bryan MD,860.340.0131x90,388586,65.51 kg,197.79 cm,Taiwan,AB+,05/08/2004 07:07:02,,John Bryan MD,,,388586,388586,,388586
+249,Dennis Jenkins,+1-956-243-1584,604082,60.73 kg,180.86 cm,Indonesia,B+,23/06/2002 11:52:08,,Dennis Jenkins,,,604082,604082,,604082
+250,valor_por_defecto,001-215-246-388,487413,75.11 kg,172.06 cm,Myanmar,O+,05/11/1970 16:19:01,,valor_por_defecto,,,487413,487413,,487413
+251,David Francis,(607)345-8580,982875,86.99 kg,176.04 cm,Faroe Islands,,09/11/1968 06:46:20,,David Francis,,,982875,982875,,982875
+252,Alexandra Santiago,001-478-790-562,154563,78.28 kg,182.34 cm,Spain,A-,27/09/1991 15:23:45,,Alexandra Santiago,,,154563,154563,,154563
+253,Rhonda Allen,(695)639-8477x9,685211,99.28 kg,168.84 cm,Timor-Leste,A+,27/08/2001 11:47:13,,Rhonda Allen,,,685211,685211,,685211
+254,Sean Yu,218.872.1619,nan,60.43 kg,161.81 cm,Bulgaria,AB-,15/10/1958 02:01:29,,Sean Yu,,,0,0,,0
+255,Dustin Gonzales,(752)795-9053x9,695972,74.64 kg,167.42 cm,Botswana,A-,16/07/1986 07:08:25,,Dustin Gonzales,,,695972,695972,,695972
+256,Keith Jones,784-480-2328x04,589618,90.46 kg,193.78 cm,Ireland,B+,,,Keith Jones,,,589618,589618,,589618
+257,Mr. Travis Anderson PhD,001-343-929-878,50771,93.97 kg,195.24 cm,Ireland,B-,23/09/2006 09:02:49,,Mr. Travis Anderson PhD,,,50771,50771,,50771
+258,Sharon Sullivan,(602)493-8555,511409,80.16 kg,164.72 cm,Kenya,AB+,15/06/1981 18:47:45,,Sharon Sullivan,,,511409,511409,,511409
+259,Tiffany Carpenter,+1-652-681-6281,204408,62.99 kg,177.47 cm,Estonia,O-,28/05/1986 06:15:16,,Tiffany Carpenter,,,204408,204408,,204408
+260,Stephanie White,531.208.9152,510137,59.03 kg,169.09 cm,Guam,O+,03/01/1956 11:11:25,,Stephanie White,,,510137,510137,,510137
+261,Taylor Ho,+1-855-651-4623,558572,,162.42 cm,Gambia,A+,18/06/1994 05:08:03,,Taylor Ho,,,558572,558572,,558572
+262,Elizabeth Marshall,+1-648-611-0025,575744,89.94 kg,175.44 cm,Palau,B-,01/07/1968 13:02:27,,Elizabeth Marshall,,,575744,575744,,575744
+263,Kimberly Simon,001-930-291-184,761432,85.68 kg,193.30 cm,Gambia,A+,11/09/1960 03:35:59,,Kimberly Simon,,,761432,761432,,761432
+264,Patricia Pearson,916.253.2373x11,397588,64.53 kg,196.12 cm,Namibia,AB+,25/01/1961 09:14:25,,Patricia Pearson,,,397588,397588,,397588
+265,Jonathan Garcia,001-363-674-010,394801,68.57 kg,165.22 cm,Kazakhstan,O+,08/01/1998 13:30:38,,Jonathan Garcia,,,394801,394801,,394801
+266,John West,340-745-6209x32,658587,64.98 kg,,Pitcairn Islands,B+,03/03/1958 18:05:06,,John West,,,658587,658587,,658587
+267,Scott Barber,+1-954-693-3590,773287,65.96 kg,159.11 cm,Saint Barthelemy,AB-,04/09/1973 03:21:44,,Scott Barber,,,773287,773287,,773287
+268,William Norman,879.340.5837x58,791610,60.97 kg,198.85 cm,Panama,O-,,,William Norman,,,791610,791610,,791610
+269,Derek Nichols,457.533.1920,477139,59.92 kg,156.50 cm,Belarus,,10/10/1973 19:04:43,,Derek Nichols,,,477139,477139,,477139
+270,Michael Gonzalez,9638465863,227646,96.69 kg,184.16 cm,Cameroon,B-,29/03/1974 06:44:34,,Michael Gonzalez,,,227646,227646,,227646
+271,Isaac Williams,564-487-1127x50,nan,91.52 kg,176.96 cm,Haiti,O-,31/03/1980 16:54:36,,Isaac Williams,,,0,0,,0
+272,Kenneth Pratt,001-319-359-519,543543,87.33 kg,162.15 cm,Tanzania,AB-,23/11/1988 03:41:21,,Kenneth Pratt,,,543543,543543,,543543
+273,Carlos King,454.552.3799x03,692159,64.77 kg,165.97 cm,Luxembourg,B+,14/03/1997 08:46:02,,Carlos King,,,692159,692159,,692159
+274,Katrina Oneal,(921)674-8250x4,854094,60.12 kg,188.57 cm,Vietnam,A+,26/11/1986 08:10:52,,Katrina Oneal,,,854094,854094,,854094
+275,Frank Smith,893.751.2286x14,722479,70.78 kg,194.69 cm,Malta,AB-,27/07/1967 01:14:10,,Frank Smith,,,722479,722479,,722479
+276,Kenneth Smith,001-335-880-580,24848,86.05 kg,198.08 cm,Guinea,A-,03/01/1982 09:48:16,,Kenneth Smith,,,24848,24848,,24848
+277,Jesse Hancock,001-812-853-194,362188,91.45 kg,197.16 cm,Lao People's Democratic Republic,O+,13/07/1978 03:51:52,,Jesse Hancock,,,362188,362188,,362188
+278,William Hart,225-270-9432x15,821592,55.78 kg,173.59 cm,Cyprus,B+,24/05/2004 13:39:25,,William Hart,,,821592,821592,,821592
+279,Richard Weber,(939)952-4096x7,366459,95.84 kg,156.99 cm,Ukraine,AB+,17/10/1964 14:44:03,,Richard Weber,,,366459,366459,,366459
+280,Kimberly Hess,001-249-965-802,44269,69.49 kg,188.33 cm,,AB-,30/10/1972 14:55:18,,Kimberly Hess,,,44269,44269,,44269
+281,Lauren Davis,+1-580-678-2278,874476,71.33 kg,162.61 cm,Wallis and Futuna,O+,10/12/1978 14:16:27,,Lauren Davis,,,874476,874476,,874476
+282,Richard Nguyen,(722)513-9771x8,581778,74.90 kg,183.13 cm,Jordan,B+,28/09/1973 08:37:48,,Richard Nguyen,,,581778,581778,,581778
+283,Brenda Garcia,371.295.4904x13,953330,81.80 kg,195.35 cm,Swaziland,A-,09/02/1969 05:43:56,,Brenda Garcia,,,953330,953330,,953330
+284,Jennifer Johnson,,146487,58.60 kg,199.36 cm,Algeria,O-,24/04/1979 11:25:30,,Jennifer Johnson,,,146487,146487,,146487
+285,Lisa Ramos,761.713.0561,671781,66.10 kg,161.78 cm,Russian Federation,A+,16/01/1995 20:05:54,,Lisa Ramos,,,671781,671781,,671781
+286,Larry Moore,(627)846-8274x1,92451,94.20 kg,167.18 cm,Chad,B-,11/11/1970 17:59:25,,Larry Moore,,,92451,92451,,92451
+287,David Lara,+1-660-640-5487,493605,93.14 kg,154.78 cm,Aruba,AB-,16/03/2000 02:24:18,,David Lara,,,493605,493605,,493605
+288,Lisa Frank,851-947-8569,563702,72.87 kg,150.55 cm,Nauru,B-,11/08/1956 15:48:53,,Lisa Frank,,,563702,563702,,563702
+289,valor_por_defecto,(799)641-6188,824464,60.87 kg,164.25 cm,Greenland,O+,08/10/1974 04:13:52,,valor_por_defecto,,,824464,824464,,824464
+290,Jennifer Nguyen,5739852928,564046,66.46 kg,162.65 cm,Lesotho,AB-,12/09/1980 10:40:07,,Jennifer Nguyen,,,564046,564046,,564046
+291,valor_por_defecto,(312)603-8210x4,299507,60.26 kg,159.34 cm,Tonga,O+,09/08/1958 05:23:46,,valor_por_defecto,,,299507,299507,,299507
+292,Steven Quinn,957.596.5550,551255,84.99 kg,177.70 cm,Cambodia,AB+,19/09/1976 00:52:52,,Steven Quinn,,,551255,551255,,551255
+293,Michelle Stone,(565)552-4011,178278,88.74 kg,165.97 cm,Lebanon,AB-,10/11/1976 22:46:33,,Michelle Stone,,,178278,178278,,178278
+294,Katie Smith,001-462-512-712,516974,54.97 kg,184.72 cm,Montenegro,AB+,20/09/1974 21:01:37,,Katie Smith,,,516974,516974,,516974
+295,David Cole,(892)329-3719x2,988152,75.35 kg,,Andorra,,03/11/1998 22:29:33,,David Cole,,,988152,988152,,988152
+296,Carrie Bridges,711-845-5565x22,251907,69.86 kg,,Korea,A-,18/02/1958 15:44:00,,Carrie Bridges,,,251907,251907,,251907
+297,Danielle Serrano,822.478.1197,367140,85.60 kg,159.23 cm,Congo,B-,13/02/1960 06:57:10,,Danielle Serrano,,,367140,367140,,367140
+298,Alice Barnes,793.353.9547,948832,54.15 kg,169.53 cm,China,A+,06/12/1957 23:07:56,,Alice Barnes,,,948832,948832,,948832
+299,Nathan Barker,4779994353,380205,61.43 kg,176.78 cm,Dominica,O-,11/09/1959 03:23:29,,Nathan Barker,,,380205,380205,,380205
